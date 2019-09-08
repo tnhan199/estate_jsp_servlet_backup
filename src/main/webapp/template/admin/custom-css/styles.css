@@ -1,0 +1,18 @@
+.custom-button {
+	display: block;
+	width: 400px;
+	margin: 0 auto;
+}
+
+.type-building{
+	margin-left:15px;
+}
+.custom-label{
+	font-weight:600;
+}
+.custom-input{
+	width:100%;
+}
+.custom-div{
+	margin-bottom:15px;
+}
